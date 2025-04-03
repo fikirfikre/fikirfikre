@@ -34,7 +34,7 @@
 - 📖 Features: **Course enrollment, results tracking, resource sharing, and more**.
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikirfikre&show_icons=true&theme=radical)
 
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/fikir-fikre-05321b25b)
